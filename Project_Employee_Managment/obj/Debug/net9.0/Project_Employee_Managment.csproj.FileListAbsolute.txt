@@ -1,0 +1,14 @@
+/Users/ayanaaiken/Documents/csharp/Project_Employee_Managment/obj/Debug/net9.0/Project_Employee_Managment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayanaaiken/Documents/csharp/Project_Employee_Managment/obj/Debug/net9.0/Project_Employee_Managment.AssemblyInfoInputs.cache
+/Users/ayanaaiken/Documents/csharp/Project_Employee_Managment/obj/Debug/net9.0/Project_Employee_Managment.AssemblyInfo.cs
+/Users/ayanaaiken/Documents/csharp/Project_Employee_Managment/obj/Debug/net9.0/Project_Employee_Managment.csproj.CoreCompileInputs.cache
+/Users/ayanaaiken/Documents/csharp/Project_Employee_Managment/bin/Debug/net9.0/Project_Employee_Managment
+/Users/ayanaaiken/Documents/csharp/Project_Employee_Managment/bin/Debug/net9.0/Project_Employee_Managment.deps.json
+/Users/ayanaaiken/Documents/csharp/Project_Employee_Managment/bin/Debug/net9.0/Project_Employee_Managment.runtimeconfig.json
+/Users/ayanaaiken/Documents/csharp/Project_Employee_Managment/bin/Debug/net9.0/Project_Employee_Managment.dll
+/Users/ayanaaiken/Documents/csharp/Project_Employee_Managment/bin/Debug/net9.0/Project_Employee_Managment.pdb
+/Users/ayanaaiken/Documents/csharp/Project_Employee_Managment/obj/Debug/net9.0/Project_Employee_Managment.dll
+/Users/ayanaaiken/Documents/csharp/Project_Employee_Managment/obj/Debug/net9.0/refint/Project_Employee_Managment.dll
+/Users/ayanaaiken/Documents/csharp/Project_Employee_Managment/obj/Debug/net9.0/Project_Employee_Managment.pdb
+/Users/ayanaaiken/Documents/csharp/Project_Employee_Managment/obj/Debug/net9.0/Project_Employee_Managment.genruntimeconfig.cache
+/Users/ayanaaiken/Documents/csharp/Project_Employee_Managment/obj/Debug/net9.0/ref/Project_Employee_Managment.dll
